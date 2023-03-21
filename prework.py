@@ -36,15 +36,15 @@
 
 # Question 4 1.b solution
 
-def is_leap(a_year):
-    if a_year % 4 == 0 and (a_year % 400 == 0 or a_year % 100 != 0):
-        print(True)
-    else:
-        print(False)
+# def is_leap(a_year):
+#     if a_year % 4 == 0 and (a_year % 400 == 0 or a_year % 100 != 0):
+#         print(True)
+#     else:
+#         print(False)
 
-is_leap(2019)
+# is_leap(2019)
 
-#Question 5 - Write a function to check if all numbers in a list are consecutive
+# Question 5 - Write a function to check if all numbers in a list are consecutive
 # def is_consecutive(a_list):
 #     i = 0
 #     status = True
